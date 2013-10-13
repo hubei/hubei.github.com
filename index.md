@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Cloud Computing!
+tagline: Data Driven
 ---
 {% include JB/setup %}
 
